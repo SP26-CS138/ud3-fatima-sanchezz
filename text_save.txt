@@ -1,0 +1,8 @@
+Textbook costs summary
+Student Name: Tina
+Total Textbook Cost: $200.00
+Total Financial Aid: $100.00
+Total Cost After Aid: $100.00
+Money Saved: $100.00
+Cost Difference: $0.00
+------------------------------
